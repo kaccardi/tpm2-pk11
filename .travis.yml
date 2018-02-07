@@ -13,6 +13,7 @@ addons:
     - libp11-kit-dev
     - liburiparser-dev
     - clang-3.8
+    - libdbus-1-dev
 
 install:
   - wget https://downloads.sourceforge.net/project/ibmswtpm2/ibmtpm974.tar.gz
